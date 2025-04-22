@@ -14,7 +14,8 @@ A simple REST API for managing news articles. This API provides endpoints to ret
 - TypeScript
 - Express.js
 - In-memory data storage
-- Jest for testing
+- Jest for unit testing
+- Supertest for intergration testing
 
 ## Setup Instructions
 
