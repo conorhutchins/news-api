@@ -62,3 +62,12 @@ Required fields:
 - summary
 - content
 - author
+
+## Challenges
+- Encountered a challenge when working with supertest as the server was starting up when running tests. I did a quick search of StackOverflow to see how others solve it and I employed the solution.
+
+## Use of AI
+- This was quite a quick straight forward task so I used AI to help write the unit tests to save time. I didn't see the benefit of using it further as the goal was to keep things straight forward
+
+## Learning from assessment
+- It was good practice to create something so quick and keep the requirements super basic, it was quite refreshing to craft something small and not be thinking of ways to expand it.
