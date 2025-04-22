@@ -3,7 +3,7 @@ import {
   getArticleById,
   addArticle,
   resetArticles 
-} from './articleService.ts/articleService'; 
+} from './articleService/articleService'; 
 import { Article } from '../types/Article';
 import { articles as initialArticlesData } from '../data/articles';
 
